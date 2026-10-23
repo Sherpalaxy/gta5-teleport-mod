@@ -6,7 +6,7 @@ Click a pin on https://sherpalaxy.gg/gta/5 to teleport in GTA V (Legacy / Enhanc
 Get the latest zip from [Releases](https://github.com/Sherpalaxy/gta5-teleport-mod/releases/latest).
 
 ## Important: add a Windows Defender exclusion first
-Windows Defender currently flags `sherpalaxy.exe` (as `Behavior:Win32/DefenseEvasion.A!ml`) and stops it the moment you teleport. **When that happens, the game closes too.**
+Windows Defender currently flags `sherpalaxy.exe` (as `Behavior:Win32/DefenseEvasion.A!ml`) and stops it the moment you teleport. **When that happens, the game freezes and stops responding.**
 
 Before your first teleport, exclude the folder you unzipped the mod into:
 
